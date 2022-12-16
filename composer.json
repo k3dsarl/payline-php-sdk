@@ -1,6 +1,6 @@
 {
-    "name": "monext/payline-sdk",
-    "description": "Payline library for PHP",
+    "name": "k3dsarl/payline-sdk",
+    "description": "Payline library for PHP - test with monolog 3.0 for symfony 6",
     "keywords": [
         "Monext",
         "Payline",
