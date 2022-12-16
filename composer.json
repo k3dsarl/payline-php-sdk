@@ -26,8 +26,8 @@
         "ext-curl": "*",
         "ext-openssl": "*",
         "ext-mbstring": "*",
-        "monolog/monolog": "^2.0 ",
-        "symfony/cache": ">=3.4"
+        "monolog/monolog": "*",
+        "symfony/cache": "*"
     },
     "support": {
         "email": "support@payline.com",
